@@ -4,7 +4,7 @@ A curated list of awesome mathematics resources. This is resource mentioned in [
 
 # Contents
 ## RECURSOS PYTHON
-[Geeks for geeks](https://www.geeksforgeeks.org/python-programming-language/
+[Geeks for geeks](https://www.geeksforgeeks.org/python-programming-language/)
 ## RECURSOS GEOMETRY
 [Geeks for geeks](https://www.geeksforgeeks.org/geometric-algorithms/
 )
@@ -12,7 +12,7 @@ A curated list of awesome mathematics resources. This is resource mentioned in [
 [Geeks for geeks](https://www.geeksforgeeks.org/mathematical-algorithms/#Algebra
 )
 <!-- START_TOC -->
-
+## CONTENTS
 * [Contents](#contents)
 * [General Resources](#general-resources)
     * [Learning Platforms](#learning-platforms)
