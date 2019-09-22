@@ -3,8 +3,14 @@
 A curated list of awesome mathematics resources. This is resource mentioned in [this](https://youtu.be/YzfdL58virc) video on Youtube by Siraj Raval. The credits for this curriculum go to [rossant](https://github.com/rossant/awesome-math). I've merely wrapped it, adding in my own resources. 
 
 # Contents
-
-[Geeks for geeks](google.com)
+## RECURSOS PYTHON
+[Geeks for geeks](https://www.geeksforgeeks.org/python-programming-language/
+## RECURSOS GEOMETRY
+[Geeks for geeks](https://www.geeksforgeeks.org/geometric-algorithms/
+)
+## RECURSOS ALEGEBRA
+[Geeks for geeks](https://www.geeksforgeeks.org/mathematical-algorithms/#Algebra
+)
 <!-- START_TOC -->
 
 * [Contents](#contents)
