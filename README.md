@@ -4,6 +4,7 @@ A curated list of awesome mathematics resources. This is resource mentioned in [
 
 # Contents
 
+[Geeks for geeks](google.com)
 <!-- START_TOC -->
 
 * [Contents](#contents)
